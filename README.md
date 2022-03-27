@@ -1,7 +1,5 @@
 # Election_Analysis
 
-# Election_Analysis
-
 ## Project Overview
 
 A Colorado Board of Elections employee wanted to know the total number of votes cast, a complete list of candidates who received votes, total number of votes each candidate received, percentage of votes each candidate won, and the winner of the election based on popular votes. After this task was completed, the commission requested some additional information such as the votes turnout for each county, the percentage of votes from each county out of the total count, and the county with the highest turnout. In this analysis, python was used with VS code to analyze the data from the election votes.
@@ -18,6 +16,8 @@ A Colorado Board of Elections employee wanted to know the total number of votes 
    3. Raymon Anthony Doane 3.1% (11,606)
 5. Diana DeGette won the election with 272,892 votes which was 73.8% of total votes received 
 
+## Election Results
+<img width="341" alt="Election Results" src="https://user-images.githubusercontent.com/99099706/160263472-d245f2e2-1092-4e8e-b7ac-260350671bad.png">
 
 ## Resources
   
@@ -27,4 +27,3 @@ A Colorado Board of Elections employee wanted to know the total number of votes 
 ## Summary
 
 This code was able to provide quick and accurate elections results. If the Colorado Board of Elections would be interested, this code can be modified to any elections. The elections results are stored in columns and rows. Ballot ID, County, and Candidate are in each column. Within the row all the information is stored for one vote. By declaring variables, counts were able to be determined by looping through the data and using Boolean and logical operators to calculate the number of votes, percentages, and the winner. 
-![image](https://user-images.githubusercontent.com/99099706/160263250-36d1aa3e-2198-4bdf-8700-d1f345a3e76d.png)
